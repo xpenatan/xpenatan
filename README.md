@@ -1,25 +1,5 @@
-<p align="center">
-  <a href="#">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-streak-stats.herokuapp.com?user=xpenatan&theme=transparent&hide_border=true&card_width=487&ring=11EB00&stroke=09FF00&currStreakNum=09FF00&dates=00FF22&sideNums=09FF00&fire=00FF00&sideLabels=00FF3B&currStreakLabel=00FE0E"
-    />
-</p>
+![](https://komarev.com/ghpvc/?username=xpenatan&color=gray)
 
+[![Natan's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=xpenatan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&role=OWNER,COLLABORATOR)](https://github.com/xpenatan/)
 
-<p align="center">
-  <a href="#">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=xpenatan&count_private=true&show_icons=true&theme=algolia"
-    />
-  </a>
-    <a href="#">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpenatan&layout=compact&theme=algolia"
-    />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats-ten-ruddy.vercel.app?user=xpenatan&hide_border=true&theme=dark)
